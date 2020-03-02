@@ -1,0 +1,12 @@
+Selector			Example		Learn CSS tutorial
+Type selector		h1 {  }		Type selectors
+Universal selector		* {  }		The universal selector
+Class selector		.box {  }		Class selectors
+id selector		#unique { }	ID selectors
+Attribute selector		a[title] {  }		Attribute selectors
+Pseudo-class selectors	p:first-child { }	Pseudo-classes
+Pseudo-element selectors	p::first-line { }	Pseudo-elements
+Descendant combinator	article p		Descendant combinator
+Child combinator		article > p		Child combinator
+Adjacent sibling combinator	h1 + p		Adjacent sibling
+General sibling combinator	h1 ~ p		General sibling
